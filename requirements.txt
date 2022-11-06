@@ -1,0 +1,2 @@
+cos-python-sdk-v5==1.9.20
+pytz==2022.6
